@@ -24,3 +24,11 @@ do {
       break;
   }
 } while (isNaN(valor1) && valor2 != "");
+
+class datosDeUsuario {
+  constructor () {
+    this.nombre = nombre
+    this.edad = edad
+    this.tipo = tipo
+  }
+}
